@@ -14,5 +14,9 @@ class Basics {
         System.out.println(str);
         str="vinay";
         System.out.println(str+99);
+
+        String s= "dilip";
+        char s1='@';
+        System.err.println((int)s1);
     }
 }
